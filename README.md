@@ -7,8 +7,8 @@ To **insert a stylesheet**, you can press the **Style** button given within the 
 ## Writing Custom Stylesheets
 To write your custom stylesheet, you'll need to know the requirements and limitations of the JSON code as of now.
 
-For shapes, you're only able to use: `none, ball, block` (Excluding Pivot)
-For colors, you're supposed to write it in RGB format: `R, G, B`
+• shapes, you're only able to use: `none, ball, block` (Excluding Pivot) 
+• color, you're supposed to write it in RGB format: `R, G, B`
 
 UserSettings currently only has two values, coordinate which is a boolean, and scale which is a string of X and Y.
 

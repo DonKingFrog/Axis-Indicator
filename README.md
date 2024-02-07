@@ -20,3 +20,37 @@ You can write a custom position by pressing on the coordinate text to move your 
 
 ### Scale
 This string value will scale depending on the input x and y in the format: "0x0"
+
+
+## JSON Format
+
+```json
+{
+
+    "userSettings" : {
+        "coordinate": false,
+        "scale": "175x175"
+    },
+
+
+
+    "pivot" : {
+        "color": "255, 255, 255"
+    },
+
+    "x" : {
+        "color": "236, 55, 81",
+        "shape": "ball"
+    },
+
+    "y" : {
+        "color": "124, 191, 19",
+        "shape": "ball"
+    },
+
+    "z" : {
+        "color": "45, 138, 241",
+        "shape": "ball"
+    }
+}
+```

@@ -1,10 +1,12 @@
 # Axis-Indicator
 This is a repository for the Roblox Plugin, Axis Indicator, and its stylesheets.
 
+‎ 
 
 ## Inserting 
 To **insert a stylesheet**, you can press the **Style** button given within the plugins tab. Then locate your **JSON file**, and press **Open**.
 
+‎ 
 
 ## Writing Custom Stylesheets
 To write your custom stylesheet, you'll need to know the requirements and limitations of the JSON code as of now.
@@ -21,6 +23,7 @@ You can write a custom position by pressing on the coordinate text to move your 
 ### Scale
 This string value will scale depending on the input x and y in the format: "0x0"
 
+‎ 
 
 ## JSON Format
 

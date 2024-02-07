@@ -1,0 +1,28 @@
+{
+
+    "userSettings" : {
+        "coordinate": false,
+        "scale": "175x175"
+    },
+
+
+
+    "pivot" : {
+        "color": "50, 54, 54"
+    },
+
+    "x" : {
+        "color": "136, 35, 236",
+        "shape": "ball"
+    },
+
+    "y" : {
+        "color": "255, 162, 0",
+        "shape": "ball"
+    },
+
+    "z" : {
+        "color": "39, 107, 255",
+        "shape": "ball"
+    }
+}
